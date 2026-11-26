@@ -1,5 +1,7 @@
 # Custom Colour Clustering for Image Quantisation
 
+> **Archived.** Later colour palette work: [Vector-Based-Color-Image-Quantization](https://github.com/VarunAgarwalOfficial/Vector-Based-Color-Image-Quantization). This repository is kept as a record and is read-only.
+
 A small Node.js experiment in colour quantisation. An Express server reads a PNG, groups its pixel colours into clusters, and either returns the cluster colours as an HTML palette or writes a copy of the image with every pixel replaced by its cluster colour.
 
 ## Why it is interesting
